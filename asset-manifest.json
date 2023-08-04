@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/simple_movie_app.git/static/js/main.780b29cc.js",
-    "index.html": "/simple_movie_app.git/index.html",
-    "main.780b29cc.js.map": "/simple_movie_app.git/static/js/main.780b29cc.js.map"
+    "main.js": "/simple_movie_app/static/js/main.780b29cc.js",
+    "index.html": "/simple_movie_app/index.html",
+    "main.780b29cc.js.map": "/simple_movie_app/static/js/main.780b29cc.js.map"
   },
   "entrypoints": [
     "static/js/main.780b29cc.js"
